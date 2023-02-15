@@ -1,0 +1,19 @@
+{
+  "name": "blog-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieluhl/blog-content.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieluhl/blog-content/issues"
+  },
+  "homepage": "https://github.com/danieluhl/blog-content#readme"
+}
